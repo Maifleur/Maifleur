@@ -6,11 +6,9 @@
 
     
    <a href="https://www.linkedin.com/in/nurul-aliyyah-maisarah-binti-zainudin-18b331443" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nurul-aliyyah-maisarah-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
    <a href="nurulaliyyahmaisarah@graduate.utm.my">
-  <img alt="Email" src="https://img.shields.io/badge/-maisarah-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </a>
 
 </p>
